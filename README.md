@@ -22,7 +22,7 @@
 * TextBlob : Library for processing textual data, providing an easy-to-use API for NLP tasks.
 * Download NLTK Data :
     nltk.download('punkt')
-Downloads the necessary NLTK data for tokenization.
+* Downloads the necessary NLTK data for tokenization.
 
 # Preprocess the Text:
     def preprocess_text(text):
