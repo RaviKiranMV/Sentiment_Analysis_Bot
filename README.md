@@ -1,6 +1,8 @@
-Sentiment Analysis ChatbotThis project is a simple sentiment analysis chatbot that uses Python's NLTK and TextBlob libraries to analyze the sentiment of user inputs and respond accordingly. The chatbot categorizes the sentiment as positive, negative, or neutral.
-RequirementsBefore running the code, ensure you have the following Python libraries installed: nltk & textblob
-You can install these libraries using pip:
+# Sentiment Analysis Chatbot :
+* This project is a simple sentiment analysis chatbot that uses Python's NLTK and TextBlob libraries to analyze the sentiment of user inputs and respond accordingly.
+* The chatbot categorizes the sentiment as positive, negative, or neutral.
+* RequirementsBefore running the code, ensure you have the following Python libraries installed: nltk & textblob
+* You can install these libraries using pip:
     pip install nltk textblob
 
 # How to Run :
@@ -16,8 +18,8 @@ You can install these libraries using pip:
     import nltk
     from textblob import TextBlob
 
-* nltk: Natural Language Toolkit for text processing.
-* TextBlob: Library for processing textual data, providing an easy-to-use API for NLP tasks.
+* nltk : Natural Language Toolkit for text processing.
+* TextBlob : Library for processing textual data, providing an easy-to-use API for NLP tasks.
 * Download NLTK Data :
     nltk.download('punkt')
 Downloads the necessary NLTK data for tokenization.
